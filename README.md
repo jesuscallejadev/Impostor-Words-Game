@@ -1,3 +1,5 @@
+# Impostor-Privacy-Policy
+
 Privacy Policy
 Jesús Calleja Rodríguez built the Impostor: Words Game app as an Ad Supported app. This SERVICE is provided by Jesús Calleja Rodríguez at no cost and is intended for use as is.
 
